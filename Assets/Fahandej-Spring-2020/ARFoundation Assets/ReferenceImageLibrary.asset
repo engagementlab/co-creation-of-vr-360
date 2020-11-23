@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5706403797684860470
+  m_GuidHigh: 3325517587847234954
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4972388264190382439
+      m_GuidHigh: 8609005886922647197
+    m_SerializedTextureGuid:
+      m_GuidLow: 12724072989196537039
+      m_GuidHigh: 14084424091096227834
+    m_Size: {x: 0.1545898, y: 0.22789681}
+    m_SpecifySize: 1
+    m_Name: Team1-Michael
+    m_Texture: {fileID: 2800000, guid: f933cccffcf7b094fa9fbe9f16ed75c3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5150686661416152268
+      m_GuidHigh: 12605424437890404774
+    m_SerializedTextureGuid:
+      m_GuidLow: 5243593067973115417
+      m_GuidHigh: 2280330897009480664
+    m_Size: {x: 0.2, y: 0.29484066}
+    m_SpecifySize: 1
+    m_Name: Team2-Darren
+    m_Texture: {fileID: 2800000, guid: 133cfe19fc1d48c4d813997ede5ca51f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5270345619770003440
+      m_GuidHigh: 3279429942375987107
+    m_SerializedTextureGuid:
+      m_GuidLow: 14656020512323815442
+      m_GuidHigh: 5886714110804387640
+    m_Size: {x: 0.2, y: 0.13568395}
+    m_SpecifySize: 1
+    m_Name: Team3-Jason
+    m_Texture: {fileID: 2800000, guid: 49e64812a501cb643867c66c4bcfb151, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4885079551933971349
+      m_GuidHigh: 2697476002116617882
+    m_SerializedTextureGuid:
+      m_GuidLow: 7170894977482966642
+      m_GuidHigh: 14497291081606496555
+    m_Size: {x: 0.2, y: 0.29484066}
+    m_SpecifySize: 1
+    m_Name: Team3-Jeff
+    m_Texture: {fileID: 2800000, guid: 2e81467222fd63842b0198c46db930c9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4767731413484876951
+      m_GuidHigh: 12819622582352436879
+    m_SerializedTextureGuid:
+      m_GuidLow: 9999271860902294752
+      m_GuidHigh: 3448285008884575304
+    m_Size: {x: 0.15, y: 0.2211305}
+    m_SpecifySize: 1
+    m_Name: Team4-Larry
+    m_Texture: {fileID: 2800000, guid: 71a3f4e08cc78ac448acde1ef2c4da2f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4862781525996603131
+      m_GuidHigh: 7668347917638516654
+    m_SerializedTextureGuid:
+      m_GuidLow: 4175986219868517796
+      m_GuidHigh: 2967394618027901963
+    m_Size: {x: 0.2, y: 0.29484066}
+    m_SpecifySize: 1
+    m_Name: Team4-Love
+    m_Texture: {fileID: 2800000, guid: 763075a4155739f40b84f5e3ae4d2e29, type: 3}

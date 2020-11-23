@@ -1,0 +1,61 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Basketball court
+Author: Poly by Google
+URL: https://poly.google.com/view/85FpUr2fHkH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Car
+Author: Poly by Google
+URL: https://poly.google.com/view/75h3mi6uHuC
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: D1
+Author: Asma Khoshmehr
+URL: https://poly.google.com/view/bhdYBz5bd2U
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: D2
+Author: Asma Khoshmehr
+URL: https://poly.google.com/view/eJRAy65eg-o
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: D3
+Author: Asma Khoshmehr
+URL: https://poly.google.com/view/bnIlOs4Nr7K
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: D4
+Author: Asma Khoshmehr
+URL: https://poly.google.com/view/3dGEfqF_85P
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: D5
+Author: Asma Khoshmehr
+URL: https://poly.google.com/view/6IsaCbqP1gQ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dance and dance!　踊れや踊れ02
+Author: ひよこ師匠VRチャンネル
+URL: https://poly.google.com/view/9kLK71SKI_t
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Fish in the Sea
+Author: juliana loh
+URL: https://poly.google.com/view/a-xQ5kW2awI
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: kikis
+Author: Alejandro Mendez Gonzalez
+URL: https://poly.google.com/view/2Stjfehsjap
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
