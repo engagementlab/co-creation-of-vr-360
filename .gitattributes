@@ -3,3 +3,5 @@
 *.bin filter=lfs diff=lfs merge=lfs -text
 Assets/Poly/Assets/*.asset filter=lfs diff=lfs merge=lfs -text
 *.apk filter=lfs diff=lfs merge=lfs -text
+Assets/AppCenter/Plugins/iOS/Core/AppCenter.framework/AppCenter filter=lfs diff=lfs merge=lfs -text
+Assets/AppCenter/Plugins/iOS/Distribute/AppCenterDistribute.framework/AppCenterDistribute filter=lfs diff=lfs merge=lfs -text
