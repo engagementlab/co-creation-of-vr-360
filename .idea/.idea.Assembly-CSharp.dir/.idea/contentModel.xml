@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AppCenter" t="Include">
+          <e p="AppCenterBehavior.cs" t="Include" />
+          <e p="AppCenterBehaviorAdvanced.cs" t="Include" />
+          <e p="AppCenterSettings.cs" t="Include" />
+          <e p="AppCenterSettingsAdvanced.cs" t="Include" />
+          <e p="link.xml" t="Include" />
+          <e p="Plugins" t="Include">
+            <e p="Android" t="Include">
+              <e p="Utility" t="Include">
+                <e p="AndroidUtility.cs" t="Include" />
+                <e p="JavaDateHelper.cs" t="Include" />
+                <e p="JavaNumberHelper.cs" t="Include" />
+                <e p="JavaStringMapHelper.cs" t="Include" />
+              </e>
+            </e>
+            <e p="AppCenterSDK" t="Include">
+              <e p="Core" t="Include">
+                <e p="Android" t="Include">
+                  <e p="AppCenterInternal.cs" t="Include" />
+                  <e p="AppCenterTask.cs" t="Include" />
+                  <e p="AppCenterTaskWithResult.cs" t="Include" />
+                  <e p="CustomPropertiesInternal.cs" t="Include" />
+                  <e p="UnityAppCenterConsumer.cs" t="Include" />
+                </e>
+                <e p="Blank" t="Include">
+                  <e p="AppCenterInternal.cs" t="Include" />
+                  <e p="AppCenterTaskWithResult.cs" t="Include" />
+                  <e p="CustomPropertiesInternal.cs" t="Include" />
+                </e>
+                <e p="iOS" t="Include">
+                  <e p="AppCenterInternal.cs" t="Include" />
+                  <e p="AppCenterTask.cs" t="Include" />
+                  <e p="AppCenterTaskWithResult.cs" t="Include" />
+                  <e p="CustomPropertiesInternal.cs" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="AppCenter.cs" t="Include" />
+                  <e p="AppCenterTask.cs" t="Include" />
+                  <e p="AppCenterTaskAwaiter.cs" t="Include" />
+                  <e p="AppCenterTaskWithResult.cs" t="Include" />
+                  <e p="AppCenterTaskYieldInstruction.cs" t="Include" />
+                  <e p="CustomProperties.cs" t="Include" />
+                  <e p="Device.cs" t="Include" />
+                  <e p="LogLevel.cs" t="Include" />
+                  <e p="StartupType.cs" t="Include" />
+                  <e p="UnityCoroutineHelper.cs" t="Include" />
+                  <e p="WrapperSdk.cs" t="Include" />
+                </e>
+                <e p="UWP" t="Include">
+                  <e p="AppCenterInternal.cs" t="Include" />
+                  <e p="AppCenterTask.cs" t="Include" />
+                  <e p="AppCenterTaskWithResult.cs" t="Include" />
+                  <e p="CustomPropertiesInternal.cs" t="Include" />
+                  <e p="UnityApplicationSettings.cs" t="Include" />
+                  <e p="UnityApplicationSettingsFactory.cs" t="Include" />
+                  <e p="UnityApplicationSettingsHelper.cs" t="Include" />
+                  <e p="UnityScreenSizeProvider.cs" t="Include" />
+                  <e p="UnityScreenSizeProviderFactory.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Distribute" t="Include">
+                <e p="Android" t="Include">
+                  <e p="DistributeDelegate.cs" t="Include" />
+                  <e p="DistributeInternal.cs" t="Include" />
+                  <e p="ReleaseDetailsHelper.cs" t="Include" />
+                </e>
+                <e p="Blank" t="Include">
+                  <e p="DistributeInternal.cs" t="Include" />
+                </e>
+                <e p="iOS" t="Include">
+                  <e p="DistributeInternal.cs" t="Include" />
+                  <e p="ReleaseDetailsHelper.cs" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="Distribute.cs" t="Include" />
+                  <e p="ReleaseAvailableCallback.cs" t="Include" />
+                  <e p="ReleaseDetails.cs" t="Include" />
+                  <e p="UpdateAction.cs" t="Include" />
+                  <e p="UpdateTrack.cs" t="Include" />
+                </e>
+                <e p="UWP" t="Include">
+                  <e p="DistributeInternal.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="iOS" t="Include">
+              <e p="Core" t="Include">
+                <e p="Utility" t="Include">
+                  <e p="DeviceHelper.cs" t="Include" />
+                  <e p="NSDateHelper.cs" t="Include" />
+                  <e p="NSErrorHelper.cs" t="Include" />
+                  <e p="NSNumberHelper.cs" t="Include" />
+                  <e p="NSStringDictionaryHelper.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Properties" t="Include">
+            <e p="AppSecretAttribute.cs" t="Include" />
+            <e p="CustomDropDownPropertyAttribute.cs" t="Include" />
+            <e p="CustomUrlProperty.cs" t="Include" />
+            <e p="MaxStorageSizeProperty.cs" t="Include" />
+          </e>
+        </e>
+        <e p="BuildReport" t="Include">
+          <e p="BuildReportToolOptions.xml" t="Include" />
+          <e p="CustomBuildScriptExample.txt" t="Include" />
+          <e p="license.txt" t="Include" />
+          <e p="README.txt" t="Include" />
+          <e p="VERSION.txt" t="Include" />
+        </e>
+        <e p="Fahandej-Spring-2020" t="Include">
+          <e p="CustomPreDownloadedPolyRenderer.cs" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="ARAudio.cs" t="Include" />
+            <e p="ARFoundation" t="Include">
+              <e p="ARContentSpawner.cs" t="Include" />
+              <e p="ARImageContentSpawner.cs" t="Include" />
+              <e p="ARTriggers.cs" t="Include" />
+            </e>
+            <e p="ARSequence.cs" t="Include" />
+            <e p="ARSequenceViaTimestamp.cs" t="Include" />
+            <e p="CustomPolyRenderer.cs" t="Include" />
+            <e p="JustLoadNextScene.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Poly" t="Include">
+          <e p="Resources" t="Include">
+            <e p="PolyAttributions.txt" t="Include" />
+          </e>
+          <e p="Sources" t="Include">
+            <e p="Basketball_court_Poly_by_Google_85FpUr2fHkH" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="Car_Poly_by_Google_75h3mi6uHuC" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="D1_Asma_Khoshmehr_bhdYBz5bd2U" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="D2_Asma_Khoshmehr_eJRAy65eg_o" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="D3_Asma_Khoshmehr_bnIlOs4Nr7K" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="D4_Asma_Khoshmehr_3dGEfqF_85P" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="D5_Asma_Khoshmehr_6IsaCbqP1gQ" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="Dance_and_dance_02__VR__9kLK71SKI_t" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="Elon_s_Tesla_Roadster_Wilfredo_Barrios_8xXHtIV1pg0" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="Father_Son_Walk_Philip_Zullo_PtotheZ__838Gim85Afc" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="Fish_in_the_Sea_juliana_loh_a_xQ5kW2awI" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+            <e p="kikis_Alejandro_Mendez_Gonzalez_2Stjfehsjap" t="Include">
+              <e p="FileNameMapping.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PolyToolkit" t="Include">
+          <e p="ExampleScripts" t="Include">
+            <e p="HelloPoly.cs" t="Include" />
+            <e p="Rotate.cs" t="Include" />
+            <e p="ShowFeaturedExample.cs" t="Include" />
+          </e>
+          <e p="Internal" t="Include">
+            <e p="api_clients" t="Include">
+              <e p="poly_client" t="Include">
+                <e p="PolyClient.cs" t="Include" />
+                <e p="PolyClientUtils.cs" t="Include" />
+              </e>
+            </e>
+            <e p="AsyncImporter.cs" t="Include" />
+            <e p="AttributionGeneration.cs" t="Include" />
+            <e p="Authenticator.cs" t="Include" />
+            <e p="AutoStringify.cs" t="Include" />
+            <e p="caching" t="Include">
+              <e p="PersistentBlobCache.cs" t="Include" />
+            </e>
+            <e p="CoroutineRunner.cs" t="Include" />
+            <e p="DisabledPropertyAttribute.cs" t="Include" />
+            <e p="EditTimeImportOptions.cs" t="Include" />
+            <e p="entitlement" t="Include">
+              <e p="OAuth2Identity.cs" t="Include" />
+            </e>
+            <e p="Features.cs" t="Include" />
+            <e p="Gltf1Schema.cs" t="Include" />
+            <e p="Gltf2Schema.cs" t="Include" />
+            <e p="GltfMaterialConverter.cs" t="Include" />
+            <e p="GltfSchemaCommon.cs" t="Include" />
+            <e p="HelpTextAttribute.cs" t="Include" />
+            <e p="ImportGltf.cs" t="Include" />
+            <e p="IntRange.cs" t="Include" />
+            <e p="IUriLoader.cs" t="Include" />
+            <e p="MathUtils.cs" t="Include" />
+            <e p="MeasurementUnits.cs" t="Include" />
+            <e p="model" t="Include">
+              <e p="export" t="Include">
+                <e p="Exporter.cs" t="Include" />
+                <e p="ExportUtils.cs" t="Include" />
+              </e>
+              <e p="util" t="Include">
+                <e p="BackgroundMain.cs" t="Include" />
+                <e p="BackgroundWork.cs" t="Include" />
+                <e p="ConcurrentQueue.cs" t="Include" />
+                <e p="WebRequestManager.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PolyInternalUtils.cs" t="Include" />
+            <e p="PolyMainInternal.cs" t="Include" />
+            <e p="PolyUtils.cs" t="Include" />
+            <e p="PtDebug.cs" t="Include" />
+            <e p="PtSettings.cs" t="Include" />
+            <e p="tbt" t="Include">
+              <e p="Brushes" t="Include">
+                <e p="Basic" t="Include">
+                  <e p="Bubbles" t="Include">
+                    <e p="Bubbles.shader" t="Include" />
+                  </e>
+                  <e p="CelVinyl" t="Include">
+                    <e p="CelVinyl.shader" t="Include" />
+                  </e>
+                  <e p="ChromaticWave" t="Include">
+                    <e p="ChromaticWave.shader" t="Include" />
+                  </e>
+                  <e p="Comet" t="Include">
+                    <e p="Comet.shader" t="Include" />
+                  </e>
+                  <e p="DiamondHull" t="Include">
+                    <e p="DiamondHull.shader" t="Include" />
+                  </e>
+                  <e p="Disco" t="Include">
+                    <e p="Disco.shader" t="Include" />
+                  </e>
+                  <e p="Dots" t="Include">
+                    <e p="Dots.shader" t="Include" />
+                  </e>
+                  <e p="DoubleTaperedFlat" t="Include">
+                    <e p="DiffuseNoTextureDoubleSided.shader" t="Include" />
+                  </e>
+                  <e p="DoubleTaperedMarker" t="Include">
+                    <e p="DoubleTaperedMarker.shader" t="Include" />
+                  </e>
+                  <e p="Electricity" t="Include">
+                    <e p="Electricity.shader" t="Include" />
+                  </e>
+                  <e p="Embers" t="Include">
+                    <e p="Embers.shader" t="Include" />
+                  </e>
+                  <e p="Fire" t="Include">
+                    <e p="Fire.shader" t="Include" />
+                  </e>
+                  <e p="Highlighter" t="Include">
+                    <e p="AdditiveCutout.shader" t="Include" />
+                  </e>
+                  <e p="Hypercolor" t="Include">
+                    <e p="HypercolorDoubleSided.shader" t="Include" />
+                    <e p="HypercolorSingleSided.shader" t="Include" />
+                  </e>
+                  <e p="HyperGrid" t="Include">
+                    <e p="HyperGrid.shader" t="Include" />
+                  </e>
+                  <e p="LightWire" t="Include">
+                    <e p="LightWire.shader" t="Include" />
+                  </e>
+                  <e p="Petal" t="Include">
+                    <e p="Petal.shader" t="Include" />
+                  </e>
+                  <e p="Plasma" t="Include">
+                    <e p="Plasma.shader" t="Include" />
+                  </e>
+                  <e p="Rainbow" t="Include">
+                    <e p="Rainbow.shader" t="Include" />
+                  </e>
+                  <e p="Smoke" t="Include">
+                    <e p="Smoke.shader" t="Include" />
+                  </e>
+                  <e p="Snow" t="Include">
+                    <e p="Snow.shader" t="Include" />
+                  </e>
+                  <e p="SoftHighlighter" t="Include">
+                    <e p="SoftHighlighter.shader" t="Include" />
+                  </e>
+                  <e p="Stars" t="Include">
+                    <e p="Stars.shader" t="Include" />
+                  </e>
+                  <e p="Streamers" t="Include">
+                    <e p="Streamers.shader" t="Include" />
+                  </e>
+                  <e p="Toon" t="Include">
+                    <e p="Toon.shader" t="Include" />
+                  </e>
+                  <e p="VelvetInk" t="Include">
+                    <e p="VelvetInk.shader" t="Include" />
+                  </e>
+                  <e p="Waveform" t="Include">
+                    <e p="Waveform.shader" t="Include" />
+                  </e>
+                  <e p="WaveformPulse" t="Include">
+                    <e p="NeonPulse.shader" t="Include" />
+                  </e>
+                  <e p="WigglyGraphite" t="Include">
+                    <e p="WigglyGraphiteDoubleSided.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="Blocks" t="Include">
+                  <e p="BlocksGem" t="Include">
+                    <e p="BlocksGem.shader" t="Include" />
+                  </e>
+                  <e p="BlocksGlass" t="Include">
+                    <e p="BlocksGlass.shader" t="Include" />
+                  </e>
+                  <e p="BlocksPaper" t="Include">
+                    <e p="BlocksPaper.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="Shaders" t="Include">
+                    <e p="Bloom.shader" t="Include" />
+                    <e p="DiffuseDoubleSided.shader" t="Include" />
+                    <e p="DiffuseOpaqueDoubleSided.shader" t="Include" />
+                    <e p="DiffuseOpaqueSingleSided.shader" t="Include" />
+                    <e p="DiffuseSingleSided.shader" t="Include" />
+                    <e p="StandardDoubleSided.shader" t="Include" />
+                    <e p="StandardSingleSided.shader" t="Include" />
+                    <e p="Unlit.shader" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="BrushDescriptor.cs" t="Include" />
+                <e p="BrushManifest.cs" t="Include" />
+                <e p="SerializableGuid.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Include" t="Include">
+                  <e p="Brush.cginc" t="Include" />
+                  <e p="Particles.cginc" t="Include" />
+                </e>
+                <e p="Unlit-Diffuse.shader" t="Include" />
+              </e>
+            </e>
+            <e p="tests" t="Include">
+              <e p="TestRuntimeImport.cs" t="Include" />
+            </e>
+            <e p="ThumbnailFetcher.cs" t="Include" />
+            <e p="UnityCompat.cs" t="Include" />
+            <e p="Version.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="PolyApi.cs" t="Include" />
+            <e p="PolyConfigTypes.cs" t="Include" />
+            <e p="PolyImportOptions.cs" t="Include" />
+            <e p="PolyToolkitManager.cs" t="Include" />
+            <e p="PolyTypes.cs" t="Include" />
+            <e p="PtAsset.cs" t="Include" />
+            <e p="PtAssetObject.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="PolyToolkitPbrBlendDoubleSided.shader" t="Include" />
+            <e p="PolyToolkitPbrOpaqueDoubleSided.shader" t="Include" />
+          </e>
+          <e p="ThirdParty" t="Include">
+            <e p="GPU-Voronoi-Noise" t="Include">
+              <e p="Assets" t="Include">
+                <e p="GPUVoronoiNoise" t="Include">
+                  <e p="Shader" t="Include">
+                    <e p="BlocksGemGPUVoronoiNoise.cginc" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="Noise" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Noise.cginc" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="VERSION.txt" t="Include" />
+        </e>
+        <e p="Unity-Logs-Viewer" t="Include">
+          <e p="Reporter" t="Include">
+            <e p="MultiKeyDictionary.cs" t="Include" />
+            <e p="Reporter.cs" t="Include" />
+            <e p="ReporterGUI.cs" t="Include" />
+            <e p="ReporterMessageReceiver.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+  </component>
+</project>

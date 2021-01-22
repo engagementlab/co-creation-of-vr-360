@@ -5,16 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Fahandej-Spring-2020/Scenes/EmptyScene.unity
     guid: 540551eee87d45146aaccc2b90284c96
+  - enabled: 1
+    path: Assets/Fahandej-Spring-2020/Scenes/Menu.unity
+    guid: c304996b0ae0d471dbbffa92e4dd6911
   - enabled: 1
     path: Assets/Fahandej-Spring-2020/Scenes/Main_ARFoundation.unity
     guid: cce1b8479bd16b2408dbffeafe3a3d05
   m_configObjects:
-    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: ff72dcb391cba5549b9f896bedef81ba,
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ff72dcb391cba5549b9f896bedef81ba,
       type: 2}
-    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 1c8b37793f9ffc84ab1a968a952d7429,
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 1c8b37793f9ffc84ab1a968a952d7429,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0efea01e333a10b45a93272843540cb4,
       type: 2}
