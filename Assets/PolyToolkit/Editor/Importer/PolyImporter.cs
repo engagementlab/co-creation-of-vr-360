@@ -1,9 +1,3 @@
-// Sam was here... shame on Google for not updating their plugin
-// warning CS0618: 'ReplacePrefabOptions' is obsolete: 'This has turned into the more explicit APIs, SavePrefabAsset, SaveAsPrefabAsset, SaveAsPrefabAssetAndConnect'
-// warning CS0618: 'PrefabUtility.ReplacePrefab(GameObject, Object, ReplacePrefabOptions)' is obsolete: 'Use SaveAsPrefabAsset or SaveAsPrefabAssetAndConnect with a path instead.'
-// warning CS0618: 'PrefabUtility.CreatePrefab(string, GameObject)' is obsolete: 'Use SaveAsPrefabAsset instead.'
-#pragma warning disable 0618
-
 // Copyright 2017 Google Inc. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");

@@ -1,6 +1,3 @@
-// Sam was here... shame on Google for not updating their plugin
-#pragma warning disable 0618
-
 // Copyright 2017 Google Inc. All rights reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");

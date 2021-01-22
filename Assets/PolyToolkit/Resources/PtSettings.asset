@@ -43,7 +43,7 @@ MonoBehaviour:
   basePbrBlendDoubleSidedMaterial: {fileID: 2100000, guid: b2b07ce943390e34993803beeb1e8548,
     type: 2}
   authConfig:
-    apiKey: AIzaSyCiogUQeofvP2dgYCJ4ZG1Zmz1LrAYTQaw
+    apiKey: AIzaSyCbXAkFky6xPLiROXf4JMtvyKcjTffBFlI
     clientId: 
     clientSecret: 
     additionalScopes: []
@@ -55,4 +55,4 @@ MonoBehaviour:
     cachePathOverride: 
   sendEditorAnalytics: 1
   warnOnSourceOverwrite: 1
-  warnOfApiCompatibility: 0
+  warnOfApiCompatibility: 1
